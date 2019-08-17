@@ -1,2 +1,2 @@
 # NotesApp
-A node application
+A note taking application for newbie using node JS
