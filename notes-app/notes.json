@@ -1,6 +1,1 @@
-[
-	{ "title": "test1", "body": "test2" },
-	{ "title": "New", "body": "test4" },
-	{ "title": "NewTitle", "body": "test4" },
-	{ "title": "NewTitle2", "body": "awes" }
-]
+[{"title":"test1","body":"test2"},{"title":"NewTitle","body":"test4"},{"title":"NewTitle2","body":"awes"}]
